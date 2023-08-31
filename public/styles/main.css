@@ -12,4 +12,13 @@ html {
   box-sizing: inherit;
 }
 
-/* TODO */
+.banner {
+  /* background-image: url('../assets/welcome-image.jpg'); */
+  background-image: url('../assets/delicious-food.jpg');
+  background-repeat: no-repeat;
+  height: 700px;
+}
+
+.welcome h1 {
+  color: #d67e34;
+}
